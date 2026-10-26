@@ -1,8 +1,8 @@
 # EXP-3-Record-Histogram-processing-Completion-requirements
 
-## Developed By: NAVASRI B
+### Developed By: NAVASRI B
 
-## Register Number: 212225230196
+### Register Number: 212225230196
 
 # Histogram-of-an-images
 
